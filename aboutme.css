@@ -1,0 +1,26 @@
+
+body {
+    background-image: url("backgroundgreen.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+    }
+
+h1 { color: purple;
+    font-family: fantasy;}
+
+li { font-family: sans-serif;;}
+.goodstuff { background-color: rgb(104, 255, 188); /* RGB value */;
+            font-size: 20;
+            font-family: fantasy;
+          }
+img {
+  margin: auto;
+  border: solid 3px white;
+  margin: 20px;
+  box-shadow: 5px 5px 5px black;
+  align-self: center;
+}
